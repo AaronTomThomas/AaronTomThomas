@@ -2,7 +2,7 @@ Hey there! 👋 Welcome to my GitHub Profile!
 
 I'm a second year computing student at Imperial College London, passionate about the world of software development and AI. 
 
-I'm a Co-founder and the CMO of Huscle Inc., where I develop a mobile app using modern frameworks as part of a team.
+I'm a Co-founder and the CBO of Huscle Inc., where I develop a mobile app using modern frameworks as part of a team.
 
 With a strong foundation in object-oriented programming and a growing interest in web development, 
 I'm on a journey to explore and create exciting projects that showcase my skills and knowledge.
